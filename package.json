@@ -1,0 +1,23 @@
+{
+  "name": "mongo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bourneagain/nodeJSAppDev.git"
+  },
+  "author": "Shyam Rajendran <rshyam.psg@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bourneagain/nodeJSAppDev/issues"
+  },
+  "homepage": "https://github.com/bourneagain/nodeJSAppDev",
+  "dependencies": {
+    "express": "^4.10.0",
+    "jade": "^1.7.0"
+  }
+}
